@@ -1,4 +1,4 @@
-package demo2;
+package Day1.demo2;
 
 // accessSpecifier {extraThing can be final/static or both} class NameOfTheClass { }
 public class Tutor {
@@ -50,7 +50,7 @@ public class Tutor {
     // constructor -> its a special type of method which has same name as the class and not return type;
     //accessSpecifier  nameOfMethod (Datatype variableName, Datatype variableName...)
     // default constructor
-//    public demo2.Tutor() {
+//    public Day1.demo2.Tutor() {
 //
 //    }
     // overloaded constructor / parameterized constructor

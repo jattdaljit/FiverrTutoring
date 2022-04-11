@@ -1,6 +1,6 @@
-package temp;
+package Day1.temp;
 
-import demo2.Animal;
+import Day1.demo2.Animal;
 
 public class Demo{
 

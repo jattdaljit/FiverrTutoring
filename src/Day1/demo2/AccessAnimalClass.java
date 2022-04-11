@@ -1,4 +1,4 @@
-package demo2;
+package Day1.demo2;
 
 public class AccessAnimalClass {
     public void m() {

@@ -1,4 +1,4 @@
-package demo2;
+package Day1.demo2;
 
 public class Animal {
     final int age;
@@ -10,7 +10,7 @@ public class Animal {
         this.age = age;
     }
 
-    protected final void printHello() {
+    final void printHello() {
         System.out.println("hello");
     }
 }
